@@ -1,22 +1,4 @@
 # Proyecto_POO_ValidacionCorreo
-# Sistema de Gestión de Pedidos para Restaurante
-
-## Descripción
-
-Este proyecto fue desarrollado en Python utilizando Programación Orientada a Objetos (POO) y una interfaz gráfica creada con PySide6.
-
-La aplicación permite registrar clientes y gestionar pedidos de restaurante, tanto para servicio en mesa como para entrega a domicilio. Además, calcula automáticamente el total de los pedidos registrados.
-
-## Funcionalidades
-
-* Registro de clientes.
-* Registro de pedidos en mesa.
-* Registro de pedidos a domicilio.
-* Cálculo automático del total de cada pedido.
-* Cálculo del total general de los pedidos.
-* Interfaz gráfica desarrollada con Qt Designer.
-* Validación de números telefónicos.
-* Validación de correo electrónico mediante expresiones regulares (Regex).
 
 ## Validación de Correo Electrónico
 
